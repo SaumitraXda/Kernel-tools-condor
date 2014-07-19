@@ -1,11 +1,10 @@
 # Script Pack zImage + Randisk
-# By Rachit Rawat
-# @XDA
+
 tput setaf 6
 setterm -bold 
 echo "**** IMAGE PACKER SCRIPT ****"
-echo "**** FOR falcon ****"
-echo "**** By Rachit Rawat ****"
+echo "**** FOR conder
+echo "**** *"
 tput sgr0 
 setterm -bold
 echo "Checking zImage in kernel/zImage"
